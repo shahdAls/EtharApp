@@ -40,8 +40,6 @@ Taif Alahmadi
 Hanan Alhaj
 
 ## Documentation
-
-[Documentation](https://drive.google.com/file/d/1W-N1Av9WFDTJllK74LKRgLCol1fEdwjO/view?usp=share_link)](https://drive.google.com/file/d/1UGUEe2C-HKeadpSLi_5_YecSIjHaxGqb/view?usp=drive_link)https://drive.google.com/file/d/1UGUEe2C-HKeadpSLi_5_YecSIjHaxGqb/view?usp=drive_link
-
+ [doc]https://drive.google.com/file/d/1UGUEe2C-HKeadpSLi_5_YecSIjHaxGqb/view?usp=drive_link
 
 
