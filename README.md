@@ -18,7 +18,7 @@ sql
 intellje IDE and Mysql
 Download Link:
 
-[https://github.com/spyder-ide/spyder/releases/latest/download/Spyder_64bit_full.exe](https://www.jetbrains.com/idea/)
+[intellje](https://www.jetbrains.com/idea/)
 
 ## Libraries
 -Javafx
@@ -40,6 +40,6 @@ Taif Alahmadi
 Hanan Alhaj
 
 ## Documentation
- [doc](https://drive.google.com/file/d/1UGUEe2C-HKeadpSLi_5_YecSIjHaxGqb/view?usp=drive_link)
+ [Documentation](https://drive.google.com/file/d/1UGUEe2C-HKeadpSLi_5_YecSIjHaxGqb/view?usp=drive_link)
 
 
